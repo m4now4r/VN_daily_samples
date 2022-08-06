@@ -1,0 +1,2 @@
+maldoc hash: febbbe8eb7b98c39b600497b2042c785
+AgentTesla payload hash: 5a75c5ba114fa356af0a1120c3b3c85d
