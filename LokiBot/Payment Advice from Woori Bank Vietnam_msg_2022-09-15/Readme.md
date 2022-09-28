@@ -1,4 +1,4 @@
-- IOCs:
+IOCs:
 [+]  LokiBot C2 addresses:
 	http://sempersim.su/gk13/fre.php
 
