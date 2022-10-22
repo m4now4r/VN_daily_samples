@@ -4,4 +4,4 @@ contactus@aquariushotelboutique.com
 
 webmail.aquariushotelboutique.com
 
-https://api.telegram.org/bot5416090806:AAHc_-eKh3y99r2PvkqkST8ViowHuAnB4Mo/sendMessage?chat_id=5402666401
+hxxps://api[.]telegram.org/bot5416090806:AAHc_-eKh3y99r2PvkqkST8ViowHuAnB4Mo/sendMessage?chat_id=5402666401
